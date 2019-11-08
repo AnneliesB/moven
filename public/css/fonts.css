@@ -1,0 +1,6 @@
+/* bold */
+@font-face {
+    font-family: Objective;
+    font-weight: 700;
+    src: url("../fonts/Objective-Bold.otf") format("opentype");
+}
